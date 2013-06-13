@@ -1,6 +1,6 @@
 data = File.open("./data.txt", 'r')
 divs_file = File.open("./divs.txt", 'w')
-PIXELS_PD = 2
+PIXELS_PD = 10
 
 class File
 	def add_to_hash(hash)
@@ -17,8 +17,8 @@ data_hash = {}
 data_hash = data.add_to_hash(data_hash)
 
 data_hash.each do |year, temps|
-	divs_file.write "<div class=\"year\" style=\"margin-left=#{(2013-year.to_i)*6}px;\">" + 
-		"<div class=\"min\" style=\"margin-bottom=#{temps[2]*PIXELS_PD}px;\">#{temps[2]}</div>" +
-		"<div class=\"mean\" style=\"margin-bottom=#{temps[1]*PIXELS_PD}px;\">#{temps[1]}</div>" +
-		"<div class=\"max\" style=\"margin-bottom=#{temps[0]*PIXELS_PD}px;\">#{temps[0]}</div>\n"
+	divs_file.write "<div id=\"year_container\">\n" + 
+		"		<div class=\"max\" style=\"height: #{temps[0]*PIXELS_PD}px;\"></div>\n" +
+		"		<div class=\"mean\" style=\"height: #{temps[1]*PIXELS_PD}px;\"></div>\n" +
+		"		<div class=\"min\" style=\"height: #{temps[2]*PIXELS_PD}px;\"></div>\n</div>\n"
 end

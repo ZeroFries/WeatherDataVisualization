@@ -1,29 +1,145 @@
-<div class="year" style="margin-left=0px;"><div class="min" style="margin-bottom=24px;">12</div><div class="mean" style="margin-bottom=32px;">16</div><div class="max" style="margin-bottom=40px;">20</div>
-<div class="year" style="margin-left=6px;"><div class="min" style="margin-bottom=32px;">16</div><div class="mean" style="margin-bottom=40px;">20</div><div class="max" style="margin-bottom=48px;">24</div>
-<div class="year" style="margin-left=12px;"><div class="min" style="margin-bottom=28px;">14</div><div class="mean" style="margin-bottom=34px;">17</div><div class="max" style="margin-bottom=42px;">21</div>
-<div class="year" style="margin-left=18px;"><div class="min" style="margin-bottom=26px;">13</div><div class="mean" style="margin-bottom=32px;">16</div><div class="max" style="margin-bottom=38px;">19</div>
-<div class="year" style="margin-left=24px;"><div class="min" style="margin-bottom=24px;">12</div><div class="mean" style="margin-bottom=30px;">15</div><div class="max" style="margin-bottom=36px;">18</div>
-<div class="year" style="margin-left=30px;"><div class="min" style="margin-bottom=28px;">14</div><div class="mean" style="margin-bottom=38px;">19</div><div class="max" style="margin-bottom=46px;">23</div>
-<div class="year" style="margin-left=36px;"><div class="min" style="margin-bottom=32px;">16</div><div class="mean" style="margin-bottom=40px;">20</div><div class="max" style="margin-bottom=48px;">24</div>
-<div class="year" style="margin-left=42px;"><div class="min" style="margin-bottom=26px;">13</div><div class="mean" style="margin-bottom=36px;">18</div><div class="max" style="margin-bottom=44px;">22</div>
-<div class="year" style="margin-left=48px;"><div class="min" style="margin-bottom=36px;">18</div><div class="mean" style="margin-bottom=40px;">20</div><div class="max" style="margin-bottom=46px;">23</div>
-<div class="year" style="margin-left=54px;"><div class="min" style="margin-bottom=26px;">13</div><div class="mean" style="margin-bottom=34px;">17</div><div class="max" style="margin-bottom=42px;">21</div>
-<div class="year" style="margin-left=60px;"><div class="min" style="margin-bottom=22px;">11</div><div class="mean" style="margin-bottom=28px;">14</div><div class="max" style="margin-bottom=36px;">18</div>
-<div class="year" style="margin-left=66px;"><div class="min" style="margin-bottom=28px;">14</div><div class="mean" style="margin-bottom=34px;">17</div><div class="max" style="margin-bottom=42px;">21</div>
-<div class="year" style="margin-left=72px;"><div class="min" style="margin-bottom=32px;">16</div><div class="mean" style="margin-bottom=38px;">19</div><div class="max" style="margin-bottom=44px;">22</div>
-<div class="year" style="margin-left=78px;"><div class="min" style="margin-bottom=26px;">13</div><div class="mean" style="margin-bottom=32px;">16</div><div class="max" style="margin-bottom=40px;">20</div>
-<div class="year" style="margin-left=84px;"><div class="min" style="margin-bottom=30px;">15</div><div class="mean" style="margin-bottom=38px;">19</div><div class="max" style="margin-bottom=46px;">23</div>
-<div class="year" style="margin-left=90px;"><div class="min" style="margin-bottom=22px;">11</div><div class="mean" style="margin-bottom=30px;">15</div><div class="max" style="margin-bottom=40px;">20</div>
-<div class="year" style="margin-left=96px;"><div class="min" style="margin-bottom=28px;">14</div><div class="mean" style="margin-bottom=38px;">19</div><div class="max" style="margin-bottom=48px;">24</div>
-<div class="year" style="margin-left=102px;"><div class="min" style="margin-bottom=28px;">14</div><div class="mean" style="margin-bottom=34px;">17</div><div class="max" style="margin-bottom=40px;">20</div>
-<div class="year" style="margin-left=108px;"><div class="min" style="margin-bottom=28px;">14</div><div class="mean" style="margin-bottom=36px;">18</div><div class="max" style="margin-bottom=44px;">22</div>
-<div class="year" style="margin-left=114px;"><div class="min" style="margin-bottom=30px;">15</div><div class="mean" style="margin-bottom=38px;">19</div><div class="max" style="margin-bottom=46px;">23</div>
-<div class="year" style="margin-left=120px;"><div class="min" style="margin-bottom=26px;">13</div><div class="mean" style="margin-bottom=32px;">16</div><div class="max" style="margin-bottom=42px;">21</div>
-<div class="year" style="margin-left=126px;"><div class="min" style="margin-bottom=30px;">15</div><div class="mean" style="margin-bottom=36px;">18</div><div class="max" style="margin-bottom=44px;">22</div>
-<div class="year" style="margin-left=132px;"><div class="min" style="margin-bottom=32px;">16</div><div class="mean" style="margin-bottom=38px;">19</div><div class="max" style="margin-bottom=46px;">23</div>
-<div class="year" style="margin-left=138px;"><div class="min" style="margin-bottom=30px;">15</div><div class="mean" style="margin-bottom=38px;">19</div><div class="max" style="margin-bottom=46px;">23</div>
-<div class="year" style="margin-left=144px;"><div class="min" style="margin-bottom=28px;">14</div><div class="mean" style="margin-bottom=32px;">16</div><div class="max" style="margin-bottom=36px;">18</div>
-<div class="year" style="margin-left=150px;"><div class="min" style="margin-bottom=30px;">15</div><div class="mean" style="margin-bottom=42px;">21</div><div class="max" style="margin-bottom=54px;">27</div>
-<div class="year" style="margin-left=156px;"><div class="min" style="margin-bottom=26px;">13</div><div class="mean" style="margin-bottom=34px;">17</div><div class="max" style="margin-bottom=44px;">22</div>
-<div class="year" style="margin-left=162px;"><div class="min" style="margin-bottom=26px;">13</div><div class="mean" style="margin-bottom=32px;">16</div><div class="max" style="margin-bottom=38px;">19</div>
-<div class="year" style="margin-left=168px;"><div class="min" style="margin-bottom=24px;">12</div><div class="mean" style="margin-bottom=30px;">15</div><div class="max" style="margin-bottom=38px;">19</div>
+<div id="year_container">
+		<div class="max" style="height: 200px;"></div>
+		<div class="mean" style="height: 160px;"></div>
+		<div class="min" style="height: 120px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 240px;"></div>
+		<div class="mean" style="height: 200px;"></div>
+		<div class="min" style="height: 160px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 210px;"></div>
+		<div class="mean" style="height: 170px;"></div>
+		<div class="min" style="height: 140px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 190px;"></div>
+		<div class="mean" style="height: 160px;"></div>
+		<div class="min" style="height: 130px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 180px;"></div>
+		<div class="mean" style="height: 150px;"></div>
+		<div class="min" style="height: 120px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 230px;"></div>
+		<div class="mean" style="height: 190px;"></div>
+		<div class="min" style="height: 140px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 240px;"></div>
+		<div class="mean" style="height: 200px;"></div>
+		<div class="min" style="height: 160px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 220px;"></div>
+		<div class="mean" style="height: 180px;"></div>
+		<div class="min" style="height: 130px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 230px;"></div>
+		<div class="mean" style="height: 200px;"></div>
+		<div class="min" style="height: 180px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 210px;"></div>
+		<div class="mean" style="height: 170px;"></div>
+		<div class="min" style="height: 130px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 180px;"></div>
+		<div class="mean" style="height: 140px;"></div>
+		<div class="min" style="height: 110px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 210px;"></div>
+		<div class="mean" style="height: 170px;"></div>
+		<div class="min" style="height: 140px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 220px;"></div>
+		<div class="mean" style="height: 190px;"></div>
+		<div class="min" style="height: 160px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 200px;"></div>
+		<div class="mean" style="height: 160px;"></div>
+		<div class="min" style="height: 130px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 230px;"></div>
+		<div class="mean" style="height: 190px;"></div>
+		<div class="min" style="height: 150px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 200px;"></div>
+		<div class="mean" style="height: 150px;"></div>
+		<div class="min" style="height: 110px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 240px;"></div>
+		<div class="mean" style="height: 190px;"></div>
+		<div class="min" style="height: 140px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 200px;"></div>
+		<div class="mean" style="height: 170px;"></div>
+		<div class="min" style="height: 140px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 220px;"></div>
+		<div class="mean" style="height: 180px;"></div>
+		<div class="min" style="height: 140px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 230px;"></div>
+		<div class="mean" style="height: 190px;"></div>
+		<div class="min" style="height: 150px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 210px;"></div>
+		<div class="mean" style="height: 160px;"></div>
+		<div class="min" style="height: 130px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 220px;"></div>
+		<div class="mean" style="height: 180px;"></div>
+		<div class="min" style="height: 150px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 230px;"></div>
+		<div class="mean" style="height: 190px;"></div>
+		<div class="min" style="height: 160px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 230px;"></div>
+		<div class="mean" style="height: 190px;"></div>
+		<div class="min" style="height: 150px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 180px;"></div>
+		<div class="mean" style="height: 160px;"></div>
+		<div class="min" style="height: 140px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 270px;"></div>
+		<div class="mean" style="height: 210px;"></div>
+		<div class="min" style="height: 150px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 220px;"></div>
+		<div class="mean" style="height: 170px;"></div>
+		<div class="min" style="height: 130px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 190px;"></div>
+		<div class="mean" style="height: 160px;"></div>
+		<div class="min" style="height: 130px;"></div>
+</div>
+<div id="year_container">
+		<div class="max" style="height: 190px;"></div>
+		<div class="mean" style="height: 150px;"></div>
+		<div class="min" style="height: 120px;"></div>
+</div>

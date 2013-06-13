@@ -1,0 +1,37 @@
+#graph{
+	height: 400px;
+	width: 700px;
+	border-left: 3px solid;
+	border-bottom: 3px solid;
+	position: absolute;
+	left: 250px;
+}
+
+#year_container{
+	height: 300px;
+	width: 20px;
+	display: inline-block;
+	position: relative;
+	top: 100px;
+}
+
+.min{
+	position: absolute;
+	bottom: 0;
+	width: 20px;
+	background: red;
+}
+
+.mean{
+	position: absolute;
+	bottom: 0;
+	width: 20px;
+	background: green;
+}
+
+.max{
+	position: absolute;
+	bottom: 0;
+	width: 20px;
+	background: yellow;
+}
