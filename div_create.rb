@@ -17,8 +17,8 @@ data_hash = {}
 data_hash = data.add_to_hash(data_hash)
 
 data_hash.each do |year, temps|
-	divs_file.write "<div id=\"year_container\">\n" + 
-		"		<div class=\"max\" style=\"height: #{temps[0]*PIXELS_PD}px;\"></div>\n" +
-		"		<div class=\"mean\" style=\"height: #{temps[1]*PIXELS_PD}px;\"></div>\n" +
-		"		<div class=\"min\" style=\"height: #{temps[2]*PIXELS_PD}px;\"></div>\n</div>\n"
+	divs_file.write "    <div id=\"year_container\">\n" + 
+		"		<div class=\"max\" style=\"height: #{temps[0]*PIXELS_PD}px;\"><div class=\"display_temp\">#{temps[0]}</div></div>\n" +
+		"		<div class=\"mean\" style=\"height: #{temps[1]*PIXELS_PD}px;\"><div class=\"display_temp\">#{temps[1]}</div></div>\n" +
+		"		<div class=\"min\" style=\"height: #{temps[2]*PIXELS_PD}px;\"><div class=\"display_temp\">#{temps[2]}</div></div>\n    </div>\n"
 end

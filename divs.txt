@@ -1,145 +1,145 @@
-<div id="year_container">
-		<div class="max" style="height: 200px;"></div>
-		<div class="mean" style="height: 160px;"></div>
-		<div class="min" style="height: 120px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 240px;"></div>
-		<div class="mean" style="height: 200px;"></div>
-		<div class="min" style="height: 160px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 210px;"></div>
-		<div class="mean" style="height: 170px;"></div>
-		<div class="min" style="height: 140px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 190px;"></div>
-		<div class="mean" style="height: 160px;"></div>
-		<div class="min" style="height: 130px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 180px;"></div>
-		<div class="mean" style="height: 150px;"></div>
-		<div class="min" style="height: 120px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 230px;"></div>
-		<div class="mean" style="height: 190px;"></div>
-		<div class="min" style="height: 140px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 240px;"></div>
-		<div class="mean" style="height: 200px;"></div>
-		<div class="min" style="height: 160px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 220px;"></div>
-		<div class="mean" style="height: 180px;"></div>
-		<div class="min" style="height: 130px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 230px;"></div>
-		<div class="mean" style="height: 200px;"></div>
-		<div class="min" style="height: 180px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 210px;"></div>
-		<div class="mean" style="height: 170px;"></div>
-		<div class="min" style="height: 130px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 180px;"></div>
-		<div class="mean" style="height: 140px;"></div>
-		<div class="min" style="height: 110px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 210px;"></div>
-		<div class="mean" style="height: 170px;"></div>
-		<div class="min" style="height: 140px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 220px;"></div>
-		<div class="mean" style="height: 190px;"></div>
-		<div class="min" style="height: 160px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 200px;"></div>
-		<div class="mean" style="height: 160px;"></div>
-		<div class="min" style="height: 130px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 230px;"></div>
-		<div class="mean" style="height: 190px;"></div>
-		<div class="min" style="height: 150px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 200px;"></div>
-		<div class="mean" style="height: 150px;"></div>
-		<div class="min" style="height: 110px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 240px;"></div>
-		<div class="mean" style="height: 190px;"></div>
-		<div class="min" style="height: 140px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 200px;"></div>
-		<div class="mean" style="height: 170px;"></div>
-		<div class="min" style="height: 140px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 220px;"></div>
-		<div class="mean" style="height: 180px;"></div>
-		<div class="min" style="height: 140px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 230px;"></div>
-		<div class="mean" style="height: 190px;"></div>
-		<div class="min" style="height: 150px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 210px;"></div>
-		<div class="mean" style="height: 160px;"></div>
-		<div class="min" style="height: 130px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 220px;"></div>
-		<div class="mean" style="height: 180px;"></div>
-		<div class="min" style="height: 150px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 230px;"></div>
-		<div class="mean" style="height: 190px;"></div>
-		<div class="min" style="height: 160px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 230px;"></div>
-		<div class="mean" style="height: 190px;"></div>
-		<div class="min" style="height: 150px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 180px;"></div>
-		<div class="mean" style="height: 160px;"></div>
-		<div class="min" style="height: 140px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 270px;"></div>
-		<div class="mean" style="height: 210px;"></div>
-		<div class="min" style="height: 150px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 220px;"></div>
-		<div class="mean" style="height: 170px;"></div>
-		<div class="min" style="height: 130px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 190px;"></div>
-		<div class="mean" style="height: 160px;"></div>
-		<div class="min" style="height: 130px;"></div>
-</div>
-<div id="year_container">
-		<div class="max" style="height: 190px;"></div>
-		<div class="mean" style="height: 150px;"></div>
-		<div class="min" style="height: 120px;"></div>
-</div>
+    <div id="year_container">
+		<div class="max" style="height: 200px;"><div class="display_temp">20</div></div>
+		<div class="mean" style="height: 160px;"><div class="display_temp">16</div></div>
+		<div class="min" style="height: 120px;"><div class="display_temp">12</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 240px;"><div class="display_temp">24</div></div>
+		<div class="mean" style="height: 200px;"><div class="display_temp">20</div></div>
+		<div class="min" style="height: 160px;"><div class="display_temp">16</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 210px;"><div class="display_temp">21</div></div>
+		<div class="mean" style="height: 170px;"><div class="display_temp">17</div></div>
+		<div class="min" style="height: 140px;"><div class="display_temp">14</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 190px;"><div class="display_temp">19</div></div>
+		<div class="mean" style="height: 160px;"><div class="display_temp">16</div></div>
+		<div class="min" style="height: 130px;"><div class="display_temp">13</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 180px;"><div class="display_temp">18</div></div>
+		<div class="mean" style="height: 150px;"><div class="display_temp">15</div></div>
+		<div class="min" style="height: 120px;"><div class="display_temp">12</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 230px;"><div class="display_temp">23</div></div>
+		<div class="mean" style="height: 190px;"><div class="display_temp">19</div></div>
+		<div class="min" style="height: 140px;"><div class="display_temp">14</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 240px;"><div class="display_temp">24</div></div>
+		<div class="mean" style="height: 200px;"><div class="display_temp">20</div></div>
+		<div class="min" style="height: 160px;"><div class="display_temp">16</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 220px;"><div class="display_temp">22</div></div>
+		<div class="mean" style="height: 180px;"><div class="display_temp">18</div></div>
+		<div class="min" style="height: 130px;"><div class="display_temp">13</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 230px;"><div class="display_temp">23</div></div>
+		<div class="mean" style="height: 200px;"><div class="display_temp">20</div></div>
+		<div class="min" style="height: 180px;"><div class="display_temp">18</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 210px;"><div class="display_temp">21</div></div>
+		<div class="mean" style="height: 170px;"><div class="display_temp">17</div></div>
+		<div class="min" style="height: 130px;"><div class="display_temp">13</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 180px;"><div class="display_temp">18</div></div>
+		<div class="mean" style="height: 140px;"><div class="display_temp">14</div></div>
+		<div class="min" style="height: 110px;"><div class="display_temp">11</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 210px;"><div class="display_temp">21</div></div>
+		<div class="mean" style="height: 170px;"><div class="display_temp">17</div></div>
+		<div class="min" style="height: 140px;"><div class="display_temp">14</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 220px;"><div class="display_temp">22</div></div>
+		<div class="mean" style="height: 190px;"><div class="display_temp">19</div></div>
+		<div class="min" style="height: 160px;"><div class="display_temp">16</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 200px;"><div class="display_temp">20</div></div>
+		<div class="mean" style="height: 160px;"><div class="display_temp">16</div></div>
+		<div class="min" style="height: 130px;"><div class="display_temp">13</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 230px;"><div class="display_temp">23</div></div>
+		<div class="mean" style="height: 190px;"><div class="display_temp">19</div></div>
+		<div class="min" style="height: 150px;"><div class="display_temp">15</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 200px;"><div class="display_temp">20</div></div>
+		<div class="mean" style="height: 150px;"><div class="display_temp">15</div></div>
+		<div class="min" style="height: 110px;"><div class="display_temp">11</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 240px;"><div class="display_temp">24</div></div>
+		<div class="mean" style="height: 190px;"><div class="display_temp">19</div></div>
+		<div class="min" style="height: 140px;"><div class="display_temp">14</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 200px;"><div class="display_temp">20</div></div>
+		<div class="mean" style="height: 170px;"><div class="display_temp">17</div></div>
+		<div class="min" style="height: 140px;"><div class="display_temp">14</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 220px;"><div class="display_temp">22</div></div>
+		<div class="mean" style="height: 180px;"><div class="display_temp">18</div></div>
+		<div class="min" style="height: 140px;"><div class="display_temp">14</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 230px;"><div class="display_temp">23</div></div>
+		<div class="mean" style="height: 190px;"><div class="display_temp">19</div></div>
+		<div class="min" style="height: 150px;"><div class="display_temp">15</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 210px;"><div class="display_temp">21</div></div>
+		<div class="mean" style="height: 160px;"><div class="display_temp">16</div></div>
+		<div class="min" style="height: 130px;"><div class="display_temp">13</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 220px;"><div class="display_temp">22</div></div>
+		<div class="mean" style="height: 180px;"><div class="display_temp">18</div></div>
+		<div class="min" style="height: 150px;"><div class="display_temp">15</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 230px;"><div class="display_temp">23</div></div>
+		<div class="mean" style="height: 190px;"><div class="display_temp">19</div></div>
+		<div class="min" style="height: 160px;"><div class="display_temp">16</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 230px;"><div class="display_temp">23</div></div>
+		<div class="mean" style="height: 190px;"><div class="display_temp">19</div></div>
+		<div class="min" style="height: 150px;"><div class="display_temp">15</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 180px;"><div class="display_temp">18</div></div>
+		<div class="mean" style="height: 160px;"><div class="display_temp">16</div></div>
+		<div class="min" style="height: 140px;"><div class="display_temp">14</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 270px;"><div class="display_temp">27</div></div>
+		<div class="mean" style="height: 210px;"><div class="display_temp">21</div></div>
+		<div class="min" style="height: 150px;"><div class="display_temp">15</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 220px;"><div class="display_temp">22</div></div>
+		<div class="mean" style="height: 170px;"><div class="display_temp">17</div></div>
+		<div class="min" style="height: 130px;"><div class="display_temp">13</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 190px;"><div class="display_temp">19</div></div>
+		<div class="mean" style="height: 160px;"><div class="display_temp">16</div></div>
+		<div class="min" style="height: 130px;"><div class="display_temp">13</div></div>
+    </div>
+    <div id="year_container">
+		<div class="max" style="height: 190px;"><div class="display_temp">19</div></div>
+		<div class="mean" style="height: 150px;"><div class="display_temp">15</div></div>
+		<div class="min" style="height: 120px;"><div class="display_temp">12</div></div>
+    </div>
